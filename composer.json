@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "20222052/donga-shop",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "DongA Shop – Hệ thống bán hàng trực tuyến Đông A",
+    "keywords": ["laravel", "ecommerce", "donga", "shop"],
     "license": "MIT",
     "require": {
         "php": "^8.1",
