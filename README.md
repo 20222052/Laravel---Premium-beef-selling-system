@@ -1,4 +1,4 @@
-# DongA Shop – Hệ thống bán hàng trực tuyến Đông A
+# Premium beef selling system
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
@@ -14,7 +14,7 @@
 
 ## Giới thiệu
 
-**DongA Shop** là ứng dụng web bán hàng trực tuyến được xây dựng bằng **Laravel 10**, phục vụ cho hệ thống cửa hàng **Đông A**. Ứng dụng cung cấp đầy đủ chức năng cho khách hàng mua sắm, quản lý đơn hàng, viết blog, liên hệ, cũng như bảng điều khiển quản trị để quản lý toàn bộ hoạt động của cửa hàng.
+**Premium beef selling system** là ứng dụng web bán hàng trực tuyến được xây dựng bằng **Laravel 10**, phục vụ cho hệ thống cửa hàng **Đông A**. Ứng dụng cung cấp đầy đủ chức năng cho khách hàng mua sắm, quản lý đơn hàng, viết blog, liên hệ, cũng như bảng điều khiển quản trị để quản lý toàn bộ hoạt động của cửa hàng.
 
 ---
 
